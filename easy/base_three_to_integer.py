@@ -1,3 +1,5 @@
+# https://binarysearch.com/problems/Base-3-to-Integer
+
 class Solution:
     def solve(self, s: str) -> int:
         result = 0
